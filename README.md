@@ -1,2 +1,3 @@
-# buggy_script_1.py
-Buggy Script 1
+# buggy_script_1.py (fixed)
+print("Hello")
+print("Welcome to the program!")
